@@ -1,0 +1,1 @@
+![Million user scaling system design](/images/scaleToMil.png)
